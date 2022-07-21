@@ -1,7 +1,6 @@
-# creator of PolyPanty 
-=Cmd
-
-MARKETS STABILIZED =cmd / /more sptth://w3
-
-=Cmd
+License and source code for crypto asset Solace
+Aka
+.Sol
+Aka
+Solidity
 
